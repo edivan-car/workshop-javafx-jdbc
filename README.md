@@ -29,4 +29,4 @@
 
 # Autor
 Edivan Cardoso <br>
-https://www.linkedin.com/in/edivan-cardoso-a73183104/
+https://www.linkedin.com/in/edivan-cardoso/
